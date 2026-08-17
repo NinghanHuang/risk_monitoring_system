@@ -1,0 +1,34 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# 密钥
+.env
+.env.*
+!.env.example
+
+# 模型和训练产物
+models/
+model/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# 本地数据集（仅保留目录说明，不上传生成数据）
+data/
+
+# 内部讨论与会话归档，不作为公开项目交付物
+docs/archive/
+docs/notes/
+
+# 临时文件
+.codex_tmp/
