@@ -30,5 +30,8 @@ data/
 docs/archive/
 docs/notes/
 
+# 本地 Word 版 PRD，不上传 GitHub
+docs/装修群聊情感分析与风险预警系统_PRD_v2.4.docx
+
 # 临时文件
 .codex_tmp/

@@ -115,7 +115,6 @@ print(sys.executable)
 ## 产品需求文档
 
 - [Markdown PRD](docs/装修群聊情感分析与风险预警系统_PRD.md)
-- [Word PRD](docs/装修群聊情感分析与风险预警系统_PRD_v2.4.docx)
 
 PRD 当前版本为 v2.4，包含产品目标、标签定义、模型训练、评测口径、消息聚合、数据存储、告警链路、验收标准和里程碑计划。
 
